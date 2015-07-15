@@ -1,2 +1,2 @@
-# BB Template
-This is an evolving project template including angular, gulp, and other pre-packaged tools.
+# angular-login-form
+AngularJS Login/Registration Form w/ validation and animation
