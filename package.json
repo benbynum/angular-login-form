@@ -1,12 +1,12 @@
 {
-  "name": "AngularData",
+  "name": "angular-login-form",
   "version": "0.0.1",
-  "description": "An application for taking attendance at meetups. Part of my Data Driven Web Applications with Angular.js course at Lynda.com",
+  "description": "AngularJS Login/Registration Form w/ validation and animation",
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetoftheweb/angulardata.git"
+    "url": "https://github.com/benbynum/angular-login-form"
   },
-  "author": "Ray Villalobos",
+  "author": "Ben Bynum",
   "devDependencies": {
     "gulp": "^3.8.8",
     "gulp-util": "^2.2.20",
