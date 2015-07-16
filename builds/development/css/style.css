@@ -169,7 +169,7 @@ a.small {
   height: 100%;
   top: 0;
   left: 0;
-  webkit-transition: 0.6s;
+  -webkit-transition: 0.6s;
   -ms-transition: 0.6s;
   -o-transition: 0.6s;
   transition: 0.6s;;
@@ -186,7 +186,7 @@ a.small {
   height: auto;
   border: 1px solid #efefef;
   box-shadow: 0px 1px 5px lightgray;
-  webkit-transition: 0.6s;
+  -webkit-transition: 0.6s;
   -ms-transition: 0.6s;
   -o-transition: 0.6s;
   transition: 0.6s;;
